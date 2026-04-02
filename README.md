@@ -17,10 +17,15 @@ Worked in sensitive, high-responsibility IT environments:
 - **Maintenance Labs**  
   Diagnosed and resolved hardware, software, and networking issues across various technical systems and IT equipment.
 
-- **Infrastructure Support**  
+- **IT Support**  
   Delivered operational support for internal IT networks, including performance tuning, troubleshooting, and system health checks.
 
-This experience built my strengths in managing real-world IT systems with accuracy, discipline, and accountability.
+- **Surveillance Operations**
+Managed and operated highly sensitive surveillance systems, ensuring precision, confidentiality, and mission-critical effectiveness.
+- **Servers Configuration & IT Operations**
+Delivered comprehensive operational support for internal IT servers, including performance optimization, advanced troubleshooting, and proactive system health monitoring to ensure continuous availability.
+   **Special Forces**
+Successfully completed Special Forces training and served as a Special Forces professional, ranked among the top 100 personnel for outstanding performance, discipline, and operational excellence.
 
 ---
 
