@@ -1,17 +1,17 @@
 # Qais Mubeen
 
-A focused and disciplined individual with 3 years of professional IT experience in the Pakistan Air Force. Currently pursuing a Bachelor's in Computer Science and transitioning into core tech fields such as Python programming, Cyber Security, and Cloud Computing.
+A focused and disciplined individual with 4+ years of professional IT experience in the Pakistan Air Force. Currently pursuing a Bachelor's in Computer Science and transitioning into core tech fields such as Artificial Intelligence, Cyber Security, and Cloud Computing.
 
 ---
 
-## 🔹 Technical Background (Pakistan Air Force – 3 Years)
+## 🔹 Technical Background (Pakistan Air Force – 4+ Years)
 
 Worked in sensitive, high-responsibility IT environments:
 
 - **Server Operations Room**  
   Managed and maintained mission-critical server infrastructure, ensuring 24/7 uptime, reliability, and performance monitoring.
 
-- **Data Transfer Section**  
+- **Data Transfer Sections**  
   Oversaw secure data handling, system-to-system transfers, and archival of sensitive information in military systems.
 
 - **Maintenance Labs**  
@@ -28,7 +28,10 @@ This experience built my strengths in managing real-world IT systems with accura
 
 Building strong foundational and job-ready skills in:
 
-- **Python Programming** – Syntax, logic, object-oriented programming, and automation  
+- **C++ Programming** – Syntax, logic, object-oriented programming, and automation  
+- **Python Programming** – Syntax, logic, object-oriented programming, and automation
+- **HTML** –
+- **CSS** – 
 - **Cyber Security** – Network defense, threat detection, system hardening  
 - **Cloud Computing** – Basics of AWS & Azure platforms  
 - **Git & GitHub** – Version control, collaborative development, portfolio management  
@@ -50,16 +53,14 @@ Combining technical discipline and continuous learning to:
 
 - 📁 Personal Projects (Python tools, scripts, automation)  
 - 📜 Certifications (Python, Cloud, Cyber Security)  
-- 🔗 LinkedIn Profile (professional networking)
-
 ---
 
 ## 🔹 Contact
 
 - 📍 Location: Pakistan  
-- 📧 Email: qaismubeen787@gmail.com  
-- 🔗 GitHub: [github.com/QaisMubeen](https://github.com/QaisMubeen)
+- 📧 Email:    qaismubeen787@gmail.com  
+- 🔗 GitHub:   [github.com/QaisMubeen](https://github.com/QaisMubeen)
 
 ---
 
-_“Consistency, focus, and discipline — built from my PAF experience — now applied to world-class tech readiness.”_
+_“Consistency, focus, and discipline — built from my Pakistan Air Force experience — now applied to world-class tech readiness.”_
