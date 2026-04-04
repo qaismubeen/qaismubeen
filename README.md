@@ -1,6 +1,6 @@
 # Qais Mubeen
 
-A focused and disciplined individual with 4+ years of professional IT experience in the Pakistan Air Force. Currently pursuing a Bachelor's in Computer Science and transitioning into core tech fields such as Artificial Intelligence, Cyber Security, and Cloud Computing.
+A focused and disciplined individual with 4+ years of professional IT experience in the Pakistan Air Force. Currently transitioning into core tech fields such as Artificial Intelligence, Cyber Security, and Cloud Computing.
 
 ---
 
