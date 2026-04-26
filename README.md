@@ -6,7 +6,7 @@ Hands-on experience across Server Operations Rooms, Data Transfer Systems, and M
  
 Special Forces–trained professional, ranked among the top 100 personnel, bringing elite discipline, resilience, leadership, and high-performance execution in high-risk and high-pressure environments.
  
-Currently advancing into Computer Science with a focus on Cybersecurity, Cloud Computing (AWS), DevOps, Python, Linux, Networking, and Git/GitHub. Actively building real-world projects, automation solutions, and secure systems, with a strong emphasis on scalable infrastructure and security-first design.
+Currently advancing into Tech field with a focus on Cybersecurity, Cloud Computing (AWS), DevOps, Python, Linux, Networking, and Git/GitHub. Actively building real-world projects, automation solutions, and secure systems, with a strong emphasis on scalable infrastructure and security-first design.
  
 Targeting global opportunities in Cybersecurity, Cloud Engineering, DevOps, and IT Infrastructure, combining military-grade discipline with modern technical expertise to deliver secure, efficient, and high-impact solutions.
 
