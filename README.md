@@ -1,10 +1,10 @@
-# Qais Mubeen
+﻿# Qais Mubeen
 
 IT professional with 4+ years of experience in high-security, mission-critical environments within the Pakistan Air Force (PAF). Proven expertise in server administration, IT infrastructure, network support, secure data handling, and surveillance systems, delivering 24/7 uptime, reliability, and precision under pressure.
  
 Hands-on experience across Server Operations Rooms, Data Transfer Systems, and Maintenance Labs, with strong capabilities in system troubleshooting, performance optimization, infrastructure monitoring, and hardware/software diagnostics.
  
-Special Forces–trained professional, ranked among the top 100 personnel, bringing elite discipline, resilience, leadership, and high-performance execution in high-risk and high-pressure environments.
+Special Forcesâ€“trained professional, ranked among the top 100 personnel, bringing elite discipline, resilience, leadership, and high-performance execution in high-risk and high-pressure environments.
  
 Currently advancing into Tech field with a focus on Cybersecurity, Cloud Computing (AWS), DevOps, Python, Linux, Networking, and Git/GitHub. Actively building real-world projects, automation solutions, and secure systems, with a strong emphasis on scalable infrastructure and security-first design.
  
@@ -12,7 +12,7 @@ Targeting global opportunities in Cybersecurity, Cloud Engineering, DevOps, and 
 
 ---
 
-## 🔹 Technical Background (Pakistan Air Force – 4+ Years)
+## ðŸ”¹ Technical Background (Pakistan Air Force â€“ 4+ Years)
 
 Worked in sensitive, high-responsibility IT environments:
 
@@ -41,22 +41,22 @@ Worked in sensitive, high-responsibility IT environments:
 
 ---
 
-## 🔹 Current Learning Goals
+## ðŸ”¹ Current Learning Goals
 
 Building strong foundational and job-ready skills in:
 
-- **C++ Programming** – Syntax, logic, object-oriented programming, and automation  
-- **Python Programming** – Syntax, logic, object-oriented programming, and automation
-- **HTML** –
-- **CSS** – 
-- **Cyber Security** – Network defense, threat detection, system hardening  
-- **Cloud Computing** – Basics of AWS & Azure platforms  
-- **Git & GitHub** – Version control, collaborative development, portfolio management  
-- **Problem Solving** – Algorithms and coding platforms like HackerRank and LeetCode
+- **C++ Programming** â€“ Syntax, logic, object-oriented programming, and automation  
+- **Python Programming** â€“ Syntax, logic, object-oriented programming, and automation
+- **HTML** â€“
+- **CSS** â€“ 
+- **Cyber Security** â€“ Network defense, threat detection, system hardening  
+- **Cloud Computing** â€“ Basics of AWS & Azure platforms  
+- **Git & GitHub** â€“ Version control, collaborative development, portfolio management  
+- **Problem Solving** â€“ Algorithms and coding platforms like HackerRank and LeetCode
 
 ---
 
-## 🔹 Career Vision
+## ðŸ”¹ Career Vision
 
 Combining technical discipline and continuous learning to:
 
@@ -66,18 +66,35 @@ Combining technical discipline and continuous learning to:
 
 ---
 
-## 🔹 Upcoming Additions
+## ðŸ”¹ Upcoming Additions
 
-- 📁 Personal Projects (Python tools, scripts, automation)  
-- 📜 Certifications (Python, Cloud, Cyber Security)  
+- ðŸ“ Personal Projects (Python tools, scripts, automation)  
+- ðŸ“œ Certifications (Python, Cloud, Cyber Security)  
 ---
 
-## 🔹 Contact
+## ðŸ”¹ Contact
 
-- 📍 Location: Pakistan  
-- 📧 Email:    qaismubeen787@gmail.com  
-- 🔗 GitHub:   [github.com/QaisMubeen](https://github.com/QaisMubeen)
+- ðŸ“ Location: Pakistan  
+- ðŸ“§ Email:    qaismubeen787@gmail.com  
+- ðŸ”— GitHub:   [github.com/QaisMubeen](https://github.com/QaisMubeen)
 
 ---
 
-_“Consistency, focus, and discipline — built from my Pakistan Air Force experience — now applied to world-class tech readiness.”_
+_â€œConsistency, focus, and discipline â€” built from my Pakistan Air Force experience â€” now applied to world-class tech readiness.â€_
+
+<!-- projects:start -->
+## Projects
+
+- **[ai-adaptive-recommender](https://github.com/qaismubeen/ai-adaptive-recommender)**: Adaptive recommendation system combining clustering, supervised learning, and reinforcement learning
+- **[cache-optimization](https://github.com/qaismubeen/cache-optimization)**: Mathematical optimization of multi-level cache allocation using calculus and Python — derives minimum memory access time through symbolic differentiation, numerical solving, and visualization.
+- **[eidhi-foundation-website-project](https://github.com/qaismubeen/eidhi-foundation-website-project)**: Edhi Foundation Website — Civics Project
+- **[Fast-Repeat-Courses-Timetable](https://github.com/qaismubeen/Fast-Repeat-Courses-Timetable)**: Fast Repeat Courses Timetable Website 
+- **[fast-timetable](https://github.com/qaismubeen/fast-timetable)**
+- **[image-captioning-attention](https://github.com/qaismubeen/image-captioning-attention)**
+- **[price-comovement-network](https://github.com/qaismubeen/price-comovement-network)**: Graph-based analysis of consumer price co-movement across Pakistani cities using CPI data, cosine similarity, and NetworkX centrality measures — tracking economic relationships from 2022 to 2024.
+- **[profit-calculator](https://github.com/qaismubeen/profit-calculator)**: Web-based profit calculator with WHT, Zakat, comparison table, charts, break-even analysis and PDF export — built for Pakistani savings schemes.
+- **[Python-Calculator](https://github.com/qaismubeen/Python-Calculator)**: A basic Calculator Program Written in Python as my first Project.
+- **[traffic-flow-analysis](https://github.com/qaismubeen/traffic-flow-analysis)**: Multivariable traffic flow modeling using linear regression, gradient analysis, directional derivatives, triple integration, and city-wise comparison — built with Python and real 30-day dataset.
+- **[UniVault](https://github.com/qaismubeen/UniVault)**: Console-based C++ system for record management and simulation built with heap-allocated 3D grid architecture, dynamic memory, pointer arithmetic, and file persistence.
+<!-- projects:end -->
+
