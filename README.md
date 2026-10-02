@@ -1,10 +1,10 @@
-﻿# Qais Mubeen
+# Qais Mubeen
 
 IT professional with 4+ years of experience in high-security, mission-critical environments within the Pakistan Air Force (PAF). Proven expertise in server administration, IT infrastructure, network support, secure data handling, and surveillance systems, delivering 24/7 uptime, reliability, and precision under pressure.
  
 Hands-on experience across Server Operations Rooms, Data Transfer Systems, and Maintenance Labs, with strong capabilities in system troubleshooting, performance optimization, infrastructure monitoring, and hardware/software diagnostics.
  
-Special Forcesâ€“trained professional, ranked among the top 100 personnel, bringing elite discipline, resilience, leadership, and high-performance execution in high-risk and high-pressure environments.
+Special Forces–trained professional, ranked among the top 100 personnel, bringing elite discipline, resilience, leadership, and high-performance execution in high-risk and high-pressure environments.
  
 Currently advancing into Tech field with a focus on Cybersecurity, Cloud Computing (AWS), DevOps, Python, Linux, Networking, and Git/GitHub. Actively building real-world projects, automation solutions, and secure systems, with a strong emphasis on scalable infrastructure and security-first design.
  
@@ -12,7 +12,7 @@ Targeting global opportunities in Cybersecurity, Cloud Engineering, DevOps, and 
 
 ---
 
-## ðŸ”¹ Technical Background (Pakistan Air Force â€“ 4+ Years)
+## 🔹 Technical Background (Pakistan Air Force – 4+ Years)
 
 Worked in sensitive, high-responsibility IT environments:
 
@@ -27,36 +27,36 @@ Worked in sensitive, high-responsibility IT environments:
 
 - **IT Support**  
 
-     Delivered operational support for internal IT networks, including performance tuning, troubleshooting, and system health checks.
+      Delivered operational support for internal IT networks, including performance tuning, troubleshooting, and system health checks.
 
 - **Surveillance Operations**
 
-     Managed and operated highly sensitive surveillance systems, ensuring precision, confidentiality, and mission-critical effectiveness.
+      Managed and operated highly sensitive surveillance systems, ensuring precision, confidentiality, and mission-critical effectiveness.
 - **Servers Configuration & IT Operations**
 
-   Delivered comprehensive operational support for internal IT servers, including performance optimization, advanced troubleshooting, and proactive system health monitoring to ensure continuous availability.
+     Delivered comprehensive operational support for internal IT servers, including performance optimization, advanced troubleshooting, and proactive system health monitoring to ensure continuous availability.
 - **Special Forces**
 
-   Successfully completed Special Forces training and served as a Special Forces professional, ranked among the top 100 personnel for outstanding performance, discipline, and operational excellence.
+     Successfully completed Special Forces training and served as a Special Forces professional, ranked among the top 100 personnel for outstanding performance, discipline, and operational excellence.
 
 ---
 
-## ðŸ”¹ Current Learning Goals
+## 🔹 Current Learning Goals
 
 Building strong foundational and job-ready skills in:
 
-- **C++ Programming** â€“ Syntax, logic, object-oriented programming, and automation  
-- **Python Programming** â€“ Syntax, logic, object-oriented programming, and automation
-- **HTML** â€“
-- **CSS** â€“ 
-- **Cyber Security** â€“ Network defense, threat detection, system hardening  
-- **Cloud Computing** â€“ Basics of AWS & Azure platforms  
-- **Git & GitHub** â€“ Version control, collaborative development, portfolio management  
-- **Problem Solving** â€“ Algorithms and coding platforms like HackerRank and LeetCode
+- **C++ Programming** – Syntax, logic, object-oriented programming, and automation  
+- **Python Programming** – Syntax, logic, object-oriented programming, and automation
+- **HTML** –
+- **CSS** –  
+- **Cyber Security** – Network defense, threat detection, system hardening  
+- **Cloud Computing** – Basics of AWS & Azure platforms  
+- **Git & GitHub** – Version control, collaborative development, portfolio management  
+- **Problem Solving** – Algorithms and coding platforms like HackerRank and LeetCode
 
 ---
 
-## ðŸ”¹ Career Vision
+## 🔹 Career Vision
 
 Combining technical discipline and continuous learning to:
 
@@ -66,21 +66,21 @@ Combining technical discipline and continuous learning to:
 
 ---
 
-## ðŸ”¹ Upcoming Additions
+## 🔹 Upcoming Additions
 
-- ðŸ“ Personal Projects (Python tools, scripts, automation)  
-- ðŸ“œ Certifications (Python, Cloud, Cyber Security)  
+- 📁 Personal Projects (Python tools, scripts, automation)  
+- 📜 Certifications (Python, Cloud, Cyber Security)  
 ---
 
-## ðŸ”¹ Contact
+## 🔹 Contact
 
-- ðŸ“ Location: Pakistan  
-- ðŸ“§ Email:    qaismubeen787@gmail.com  
-- ðŸ”— GitHub:   [github.com/QaisMubeen](https://github.com/QaisMubeen)
+- 📍 Location: Pakistan  
+- 📧 Email:    qaismubeen787@gmail.com  
+- 🔗 GitHub:    [github.com/QaisMubeen](https://github.com/QaisMubeen)
 
 ---
 
-_â€œConsistency, focus, and discipline â€” built from my Pakistan Air Force experience â€” now applied to world-class tech readiness.â€_
+_“Consistency, focus, and discipline — built from my Pakistan Air Force experience — now applied to world-class tech readiness.”_
 
 <!-- projects:start -->
 ## Projects
@@ -97,4 +97,3 @@ _â€œConsistency, focus, and discipline â€” built from my Pakistan Air F
 - **[traffic-flow-analysis](https://github.com/qaismubeen/traffic-flow-analysis)**: Multivariable traffic flow modeling using linear regression, gradient analysis, directional derivatives, triple integration, and city-wise comparison — built with Python and real 30-day dataset.
 - **[UniVault](https://github.com/qaismubeen/UniVault)**: Console-based C++ system for record management and simulation built with heap-allocated 3D grid architecture, dynamic memory, pointer arithmetic, and file persistence.
 <!-- projects:end -->
-
