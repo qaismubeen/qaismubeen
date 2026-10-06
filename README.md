@@ -16,7 +16,7 @@ I am building a career in AI engineering. My focus is machine learning and deep 
 ## Focus 
  
 - Machine learning and deep learning: recommendation systems, attention-based image captioning, regression and graph-based modelling 
-- Python for data analysis, modelling and visualization; C++ for systems-level programming 
+- Python, PyTorch, TensorFlow and Keras for modelling and data analysis; C++ for systems-level programming 
 - Linux, cloud (AWS, Azure) and DevOps fundamentals for deploying and serving models 
 - Cybersecurity as a secondary interest 
  
