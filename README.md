@@ -19,3 +19,9 @@ I am building a career in AI engineering. My focus is machine learning and deep 
 - Python for data analysis, modelling and visualization; C++ for systems-level programming 
 - Linux, cloud (AWS, Azure) and DevOps fundamentals for deploying and serving models 
 - Cybersecurity as a secondary interest 
+ 
+## Training 
+ 
+- Machine Learning Specialization (DeepLearning.AI and Stanford Online, Coursera) 
+- Deep Learning Specialization (DeepLearning.AI, Coursera) 
+- AI Capstone Project with Deep Learning (IBM, Coursera) 
