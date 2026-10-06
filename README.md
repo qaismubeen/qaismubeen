@@ -25,3 +25,12 @@ I am building a career in AI engineering. My focus is machine learning and deep 
 - Machine Learning Specialization (DeepLearning.AI and Stanford Online, Coursera) 
 - Deep Learning Specialization (DeepLearning.AI, Coursera) 
 - AI Capstone Project with Deep Learning (IBM, Coursera) 
+ 
+## Selected Projects 
+ 
+- ai-adaptive-recommender: adaptive recommender combining K-Means clustering, supervised learning, SVD matrix factorization and a multi-armed bandit, evaluated on MovieLens 100K 
+- image-captioning-attention: image captioning with an attention mechanism 
+- traffic-flow-analysis: multivariable traffic flow modelling on a real 30-day dataset 
+- price-comovement-network: graph analysis of CPI co-movement across Pakistani cities, 2022 to 2024 
+- cache-optimization: calculus-based optimization of multi-level cache allocation 
+- UniVault: C++ record management and simulation system with dynamic memory and file persistence 
