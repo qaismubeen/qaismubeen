@@ -34,3 +34,8 @@ I am building a career in AI engineering. My focus is machine learning and deep 
 - price-comovement-network: graph analysis of CPI co-movement across Pakistani cities, 2022 to 2024 
 - cache-optimization: calculus-based optimization of multi-level cache allocation 
 - UniVault: C++ record management and simulation system with dynamic memory and file persistence 
+ 
+## Contact 
+ 
+- LinkedIn: linkedin.com/in/qaismubeen 
+- Email: qaismubeen787@gmail.com 
