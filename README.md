@@ -12,3 +12,10 @@ I am building a career in AI engineering. My focus is machine learning and deep 
 - Surveillance Operations: operated sensitive surveillance systems where precision and confidentiality were required. 
 - Servers Configuration and IT Support: performance tuning, troubleshooting and system health monitoring. 
 - Special Forces: completed training and served as a Special Forces professional. 
+ 
+## Focus 
+ 
+- Machine learning and deep learning: recommendation systems, attention-based image captioning, regression and graph-based modelling 
+- Python for data analysis, modelling and visualization; C++ for systems-level programming 
+- Linux, cloud (AWS, Azure) and DevOps fundamentals for deploying and serving models 
+- Cybersecurity as a secondary interest 
