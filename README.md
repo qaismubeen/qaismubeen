@@ -25,7 +25,8 @@ I am building a career in AI engineering. My focus is Machine learning and Deep 
 - Machine Learning Specialization (DeepLearning.AI and Stanford Online, Coursera) 
 - Deep Learning Specialization (DeepLearning.AI, Coursera)
 - Artificial Intelligence Using Python (DigiSkills.pk) 
-- IBM (Coursera): Machine Learning with Python; Introduction to Deep Learning and Neural Networks with Keras; Deep Learning with Keras and TensorFlow; Introduction to Neural Networks and PyTorch; AI Capstone Project with Deep Learning 
+- IBM (Coursera): Machine Learning with Python; Introduction to Deep Learning and Neural Networks with Keras; Deep Learning with Keras and TensorFlow; Introduction to Neural Networks and PyTorch; AI Capstone Project with Deep Learning
+- IBM AI Engineering
  
 ## Selected Projects 
  
