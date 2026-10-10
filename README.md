@@ -2,7 +2,7 @@
  
 IT Operations professional with 4+ years of service in the Pakistan Air Force, working in high-security, mission-critical environments. Special Forces trained and ranked among the top 100 personnel. 
  
-I am building a career in AI engineering. My focus is machine learning and deep learning, and the engineering needed to turn models into reliable, deployed systems. I pair every course with a working project and write down what broke and why. 
+I am building a career in AI engineering. My focus is Machine learning and Deep learning, and the Engineering needed to turn models into reliable, deployed systems. I pair every course with a working project and write down what broke and why. 
  
 ## Background 
  
@@ -29,8 +29,8 @@ I am building a career in AI engineering. My focus is machine learning and deep 
  
 ## Selected Projects 
  
+- image-captioning-attention: image captioning with an attention mechanism
 - ai-adaptive-recommender: adaptive recommender combining K-Means clustering, supervised learning, SVD matrix factorization and a multi-armed bandit, evaluated on MovieLens 100K 
-- image-captioning-attention: image captioning with an attention mechanism 
 - traffic-flow-analysis: multivariable traffic flow modelling on a real 30-day dataset 
 - price-comovement-network: graph analysis of CPI co-movement across Pakistani cities, 2022 to 2024 
 - cache-optimization: calculus-based optimization of multi-level cache allocation 
